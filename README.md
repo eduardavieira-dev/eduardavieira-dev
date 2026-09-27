@@ -28,8 +28,9 @@
 
 ## ⭐ GitHub Stats
 <a href="https://github.com/eduardavieira-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardavieira-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardavieira-dev&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=eduardavieira-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=eduardavieira-dev&layout=compact&langs_count=6&theme=radical"/>
+
 
 ## 📚 Meus estudos
 Organizo meus aprendizados e anotações em uma organização separada no GitHub chamada [eduardavieira-study](https://github.com/eduardavieira-study).  
@@ -45,7 +46,7 @@ Lá você encontra repositórios com resumos, desafios resolvidos, anotações d
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,docker)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite,spring,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,nodejs,vite,spring,mysql,postgres)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev)
