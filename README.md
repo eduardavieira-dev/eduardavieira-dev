@@ -4,6 +4,12 @@
  Tenho focado meus estudos em <strong>Node.js</strong> e <strong>React</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
 </p>
 
+<p align="left">
+  <a href="https://portfolio-eduardavieira.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/✨_Ver_portfólio-893BB3?style=for-the-badge" alt="Ver portfólio" />
+  </a>
+</p>
+
 ## Sobre mim
 
 - 🎓 Graduanda em Engenharia de Software na PUC
@@ -69,7 +75,7 @@ Lá você encontra repositórios com resumos, desafios resolvidos, anotações d
 </p>
 
 <p align="left">
-  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
+  Quer conhecer mais sobre meu trabalho? <a href="https://portfolio-eduardavieira.vercel.app/" target="_blank">Confira meu portfólio</a> e vamos nos conectar! 💌✨
 </p>
 
 <p align="left">
