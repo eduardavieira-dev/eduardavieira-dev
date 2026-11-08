@@ -1,7 +1,7 @@
 # 💜 Olá, eu sou a Eduarda!
 <p align="left">
-  Desenvolvedora em formação, comprometida a criar soluções modernas, funcionais e com propósito. <br>
- Tenho focado meus estudos em <strong>Node.js</strong> e <strong>React</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
+  Software Engineer na <strong>Hotmart</strong>, comprometida a criar soluções modernas, funcionais e com propósito. <br>
+ Hoje tenho focado meus estudos em <strong>React</strong> e <strong>Java com Spring Boot</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
 </p>
 
 <p align="left">
@@ -12,9 +12,10 @@
 
 ## Sobre mim
 
+- 💼 Software Engineer na [Hotmart](https://hotmart.com)
 - 🎓 Graduanda em Engenharia de Software na PUC
 - 🖥️ Técnica em Desenvolvimento de Sistemas pelo SENAI
-- 📚 Estudando Flutter, React Native, e desenvolvimento mobile.
+- 📚 Estudando Flutter, React e Java com Spring Boot.
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 - ❤️ Tenho um [studygram](https://www.instagram.com/eduardavieira.dev?igsh=MTIzbGJ6YjN0dHoyYw%3D%3D&utm_source=qr) e sempre estou postando dicas sobre a área e incentivando dev's
 
@@ -53,7 +54,7 @@ Lá você encontra repositórios com resumos, desafios resolvidos, anotações d
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,docker)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=next,react,nodejs,vite,spring,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,flutter,nodejs,vite,spring,mysql,postgres)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev)
@@ -63,8 +64,8 @@ Lá você encontra repositórios com resumos, desafios resolvidos, anotações d
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou formada como <strong>Técnica em Desenvolvimento de Sistemas</strong> pelo SENAI e atualmente curso o <strong>5º período de Engenharia de Software</strong> na PUC Minas. <br><br>
-  Tenho me aprofundado em <strong>JavaScript</strong>, com foco em <strong>React.js</strong> para o front-end e <strong>Node.js</strong> para o back-end. Também venho explorando tecnologias como <strong>Next</strong>,<strong>Java</strong>, <strong>Spring Boot</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong> e <strong>Docker</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
+  Sou <strong>Software Engineer na Hotmart</strong>, formada como <strong>Técnica em Desenvolvimento de Sistemas</strong> pelo SENAI e atualmente curso o <strong>5º período de Engenharia de Software</strong> na PUC Minas. <br><br>
+  Hoje meus estudos estão mais focados em <strong>React</strong> para o front-end e <strong>Java com Spring Boot</strong> para o back-end. Também venho explorando tecnologias como <strong>Flutter</strong>, <strong>Next</strong>, <strong>Node.js</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong> e <strong>Docker</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
   Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
 </p>
 
